@@ -17,7 +17,6 @@ import com.youo.service.YouoProperties;
 @SpringBootTest()
 public class YouoApplicationTests {
 
-	
 	private static final Log log = LogFactory.getLog(YouoApplicationTests.class);
 	@Autowired
 	private YouoProperties youoProperties;

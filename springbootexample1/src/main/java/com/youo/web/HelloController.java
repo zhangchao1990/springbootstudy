@@ -10,7 +10,7 @@ public class HelloController {
 	public String index()
 	{
 		
-		return "Hello World!";
+		return "Hello World";
 	}
 
 }
